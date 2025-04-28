@@ -1,5 +1,5 @@
 # pavan
-# Energy Analytics Project
+# AI APPLICATIONS IN POWER SYSTEMS
 
 **Technical Documentation**  
 *Last Verified: June 2024 | Python 3.9.12 | Ubuntu 20.04 LTS*
